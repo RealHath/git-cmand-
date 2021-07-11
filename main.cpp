@@ -11,5 +11,6 @@ int main(){
 	//rebase1
 	while(1);
 	while(0);
+	if(1){}
 	return 0;
 }
