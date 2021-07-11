@@ -10,5 +10,6 @@ int main(){
 	//dev1
 	//rebase1
 	while(1);
+	while(0);
 	return 0;
 }
